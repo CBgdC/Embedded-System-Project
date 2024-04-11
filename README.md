@@ -11,4 +11,4 @@ HARDWARE:
 - 15x JUMPER WIRES
 - 1x USB-A TO USB-B MINI
 
-[https://github.com/CBgdC/Embedded-System-Project/issues/1#issue-2237869753](https://github.com/CBgdC/Embedded-System-Project/issues/1#issue-2237869753)
+![IMG_1777](https://github.com/CBgdC/Embedded-System-Project/assets/108428043/61be765b-c92e-4889-b475-b9e9d5921066)
