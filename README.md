@@ -10,4 +10,5 @@ HARDWARE:
 - 3x LEDS(RED,BLUE,YELLOW)
 - 15x JUMPER WIRES
 - 1x USB-A TO USB-B MINI
+
 https://github.com/CBgdC/Embedded-System-Project/issues/1#issue-2237869753
